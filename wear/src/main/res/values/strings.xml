@@ -1,5 +1,10 @@
 <resources>
-    <string name="app_name">Wear Heart Monitor</string>
+    <string name="app_name" translatable="false">Wear Heart Monitor</string>
+    <string name="current_hr_title">Freqência Cardíaca</string>
+    <string name="title_activity_herat_rate">HeratRateActivity</string>
+    <string name="bpm">bpm</string>
+    <string name="real_time_hr_title">Inciar Monitoramento</string>
+    <string name="title_activity_heart_rate">HeartRateActivity</string>
     <string name="hello_round">Hello Round World!</string>
     <string name="hello_square">Hello Square World!</string>
 </resources>
